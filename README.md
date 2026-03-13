@@ -33,3 +33,10 @@
 - The age is converted into months.
 - Motivational quotes appear on the page.
 - Saved data is automatically loaded when the page is reopened.
+ ## Screenshots
+  ![Screenshot of the webpage.](images/Screenshot.png)
+  ## Live url 
+ > Github deployed page
+  [Live Demo](https://josephgakono.github.io/personalized_webpage/)
+  ## Github Repository
+  [Github Repository](https://github.com/josephgakono/personalized_webpage)
